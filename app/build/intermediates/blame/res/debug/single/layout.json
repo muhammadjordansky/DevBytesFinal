@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\PERBAIKANPBM\\DevBytesRepository\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\devbyte_item.xml",
+        "source": "D:\\PERBAIKANPBM\\DevBytesRepository\\app\\src\\main\\res\\layout\\devbyte_item.xml"
+    },
+    {
+        "merged": "D:\\PERBAIKANPBM\\DevBytesRepository\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_dev_byte.xml",
+        "source": "D:\\PERBAIKANPBM\\DevBytesRepository\\app\\src\\main\\res\\layout\\fragment_dev_byte.xml"
+    }
+]
